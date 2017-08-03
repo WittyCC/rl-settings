@@ -1,0 +1,26 @@
+{
+  "name": "rl-settings",
+  "description": "An app that utilizes Google Street View API",
+  "main": "index.html",
+  "authors": [
+    "Witty Chang"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "real",
+    "life",
+    "settings"
+  ],
+  "homepage": "https://github.com/wcchang1382/rl-settings",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
